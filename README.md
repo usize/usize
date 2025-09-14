@@ -1,4 +1,4 @@
-## I like turtles = () => turtles() && "🐢"
+## I like  `turtles = () => turtles() && "🐢"`
 
 Long ago, I worked on [web browsers](https://github.com/mozilla/gecko-dev/commits?author=usize) and [compilers](https://github.com/bytecodealliance/wasmtime/commits?author=usize) many years ago.
 
