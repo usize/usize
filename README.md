@@ -4,6 +4,8 @@ I worked on [web browsers](https://github.com/mozilla/gecko-dev/commits?author=u
 
 Then on YouTube('s CDN) and Google Pay.
 
+I started a small company doing large scale civic data collection, and helped non-profits.
+
 Now I work at Red Hat, experimenting with emerging AI technologies, and it's a lot of fun.
 
 I hope we can all be lucky enough to spend our time doing the things we enjoy.
