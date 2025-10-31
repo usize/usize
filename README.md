@@ -6,7 +6,7 @@ Then on YouTube('s CDN) and Google Pay.
 
 I started a small company doing large scale civic data collection, and helped non-profits.
 
-Now I work at Red Hat in [Emerging Technologies](https://next.redhat.com/) helping to define the next generation of AI infrastructure. It's a lot of fun.
+Now I work in [Emerging Technologies](https://next.redhat.com/), helping define the next generation of AI infrastructure. It's a lot of fun.
 
 I hope we can all be lucky enough to spend our time doing the things we enjoy.
 
