@@ -4,7 +4,7 @@ I worked on [web browsers](https://github.com/mozilla/gecko-dev/commits?author=u
 
 Then on YouTube('s CDN) and Google Pay.
 
-I started a small company doing large scale civic data collection, and helped non-profits.
+I started [a small company](https://noosphereanalytics.com) doing large scale civic data collection, and helped non-profits.
 
 Now I work in [Emerging Technologies](https://next.redhat.com/), helping define the next generation of AI infrastructure. It's a lot of fun.
 
